@@ -1,9 +1,9 @@
-Atomic Design: The Book
+Reclaimer Book (WIP)
 =============
 
-![Atomic Design by Brad Frost](http://bradfrost.com/wp-content/uploads/2015/01/book-cover-700x1082.png)
+This is the repository for the book Reclaimer by [CK Hicks](http://ckhicks.com/)
 
-This is the repository for the book Atomic Design by [Brad Frost](http://bradfrost.com/).
+(the rest of this is placeholder)
 
 - Visit the [project's homepage](http://atomicdesign.bradfrost.com)
 - [Read more about the project here](http://bradfrost.com/blog/post/atomic-design-book/)
